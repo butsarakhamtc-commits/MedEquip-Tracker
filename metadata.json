@@ -1,6 +1,0 @@
-{
-  "name": "MedEquip Tracker - ระบบจัดการเครื่องมือแพทย์",
-  "description": "ระบบทะเบียนเครื่องมือแพทย์ พิมพ์ QR Code/สติ๊กเกอร์ ยืม-คืน ติดตามคนไข้ และแจ้งเตือน PM/Calibration",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
